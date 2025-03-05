@@ -38,6 +38,9 @@ public class MergeSortedArray {
 	            k--;
 	            j--;
 	        }
+	        
+	        // time = O(m+n)
+	        // space = O(1)
 
 }
 }
